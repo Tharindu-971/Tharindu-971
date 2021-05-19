@@ -6,9 +6,8 @@
 <a href="https://www.linkedin.com/in/tharindu-kumara-1349a4199/">
   <img align="left" alt="Tharindus's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/tharindu-kumara-1349a4199/">
-  <img align="left" alt="Tharindus's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/mail.svg" />
-</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=Tharindu-971)
 <!---![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)--->
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 

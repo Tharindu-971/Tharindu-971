@@ -5,6 +5,10 @@
   <img align="left" alt="Tharindus's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<a href="https://twitter.com/madushan_mg">
+  <img align="left" alt="Tharindu Madushan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=Tharindu-971)
 
 
